@@ -1,0 +1,2 @@
+log 42
+Ignore folder logs
